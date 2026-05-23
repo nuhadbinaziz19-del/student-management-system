@@ -19,11 +19,11 @@ This application provides a clean and user-friendly interface to manage student 
 ---
 
 # 🖥️ Screenshots
-<img width="620" height="400" alt="Screenshot 2026-05-24 031111" src="https://github.com/user-attachments/assets/96875ec2-3cd1-49ff-a315-38b32dbd2c5a" />
-<img width="622" height="400" alt="Screenshot 2026-05-24 031214" src="https://github.com/user-attachments/assets/ba7556ef-5257-42f1-8920-6f5850d4a44d" />
-<img width="614" height="400" alt="Screenshot 2026-05-24 031230" src="https://github.com/user-attachments/assets/440e582e-b026-42af-a722-e0cb64d36056" />
-<img width="490" height="400" alt="Screenshot 2026-05-24 031252" src="https://github.com/user-attachments/assets/a087a32d-cbb3-4cc3-87fd-a48ae8b98063" />
-<img width="677" height="400" alt="Screenshot 2026-05-24 031309" src="https://github.com/user-attachments/assets/02bd1885-e0b8-4585-9238-ff96bcc66a07" />
+<img width="400" alt="Login System" src="https://github.com/user-attachments/assets/96875ec2-3cd1-49ff-a315-38b32dbd2c5a" />
+<img width="400" alt="Dashboard" src="https://github.com/user-attachments/assets/ba7556ef-5257-42f1-8920-6f5850d4a44d" />
+<img width="400" alt="Add Student" src="https://github.com/user-attachments/assets/440e582e-b026-42af-a722-e0cb64d36056" />
+<img width="350" alt="Search Student" src="https://github.com/user-attachments/assets/a087a32d-cbb3-4cc3-87fd-a48ae8b98063" />
+<img width="430" alt="Update Student" src="https://github.com/user-attachments/assets/02bd1885-e0b8-4585-9238-ff96bcc66a07" />
 <img width="400" alt="Login System" src="https://github.com/user-attachments/assets/48adade9-d4db-4c8d-a557-2524e44eaf18" />
 
 # 🛠️ Technologies Used
