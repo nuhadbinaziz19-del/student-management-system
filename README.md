@@ -19,9 +19,7 @@ This application provides a clean and user-friendly interface to manage student 
 ---
 
 # 🖥️ Screenshots
-
 ## 🔐 Login System
-(Add your screenshot here)
 
 ## 📊 Dashboard
 (Add your screenshot here)
@@ -36,7 +34,8 @@ This application provides a clean and user-friendly interface to manage student 
 (Add your screenshot here)
 
 ## ❌ Delete Student
-(Add your screenshot here)
+<img width="490" height="337" alt="Screenshot 2026-05-24 031320" src="https://github.com/user-attachments/assets/48adade9-d4db-4c8d-a557-2524e44eaf18" />
+
 
 ---
 
